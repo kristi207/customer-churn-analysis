@@ -1,5 +1,5 @@
-data/*.csv
-data/*.xlsx
+data/
+outputs/
 .ipynb_checkpoints/
 *.pyc
 __pycache__/
